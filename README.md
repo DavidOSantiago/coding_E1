@@ -1,2 +1,2 @@
 # coding_E1
-First Practice for GIthub
+First Practice for Github
